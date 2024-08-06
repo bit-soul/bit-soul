@@ -1,7 +1,7 @@
 # bit-soul
 
 ## What
-BitSoul is a De-Social product based on [BRC-Soul Protocol](https://github.com/bit-soul/brc-soul) build on BitCoin.
+BitSoul is trying to build a de-social network based on BitCoin, the most secure blockchain.
 <https://dapp.bitsoul.xyz>
 
 ## How
@@ -13,8 +13,8 @@ Here is the help document about how to use bitsoul: <https://bitsoul.medium.com>
 The lack of regulation in the crypto space brings freedom but also comes with scams.
 Addressing trust issues in anonymous scenarios becomes crucial. This can significantly
 reduce trust costs and, consequently, increase productivity in the crypto world.
-brc-soul can effectively solve decentralized trust issues and have important
-applications in scenarios such as:
+[BRC-Soul Protocol based on BitCoin](https://github.com/bit-soul/brc-soul) can effectively
+solve decentralized trust issues and have important applications in scenarios such as:
 
 1. Lending platforms can adjust corresponding collateral ratios based on the credibility of addresses, thereby improving capital utilization efficiency.
 2. Individuals can assess the credibility of a project based on the reputation of the project initiator's address and decide whether to invest or not.
