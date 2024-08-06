@@ -2,12 +2,15 @@
 
 ## What
 BitSoul is trying to build a de-social network based on BitCoin, the most secure blockchain.
+Including personal identity, friend relationship, group relationship, soul bound certificate, etc.
 <https://dapp.bitsoul.xyz>
+
 
 ## How
 Here is the help document about how to use bitsoul: <https://bitsoul.medium.com>
 
 ![](docs/img/img.jpg)
+
 
 ## Why
 The lack of regulation in the crypto space brings freedom but also comes with scams.
@@ -28,13 +31,15 @@ Why should use the Bitcoin chain?
 2. Bitcoin is currently the most secure chain, and personal identity information is the most important information for everyone, so it should be stored on the most secure chain.
 3. The various DID identity systems on different chains have caused severe fragmentation in the ecosystem. Bitcoin's position is the most hopeful for standardizing DID identity systems.
 
+
 ### RoadMap
 1. Develop Discord Bot to sync group relation to Discord
 2. Develop Chrome plugin to sync follow relation to Twitter 
 3. Use Rollup Tech to reduce operation time to one-second
 4. Raise funds to give grants to the project who use BRC-Soul protocol
 
-## Contact us
+
+## Official Links
 1. issues: <https://github.com/bit-soul/bit-soul/issues>
 2. email: <coffeeking001@outlook.com>
 3. medium: <https://bitsoul.medium.com>
