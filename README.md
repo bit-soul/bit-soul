@@ -1,9 +1,10 @@
 # bit-soul
 
 ## What
+BitCoin protects your wealth, BitSoul safeguards your network. <https://dapp.bitsoul.xyz>
+
 BitSoul is trying to build a de-social network based on BitCoin, the most secure blockchain.
 Including personal identity, friend relationship, group relationship, soul bound certificate, etc.
-<https://dapp.bitsoul.xyz>
 
 
 ## How
