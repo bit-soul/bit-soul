@@ -37,7 +37,7 @@ Why should use the Bitcoin chain?
 1. Develop Discord Bot to sync group relation to Discord
 2. Develop Chrome plugin to sync follow relation to Twitter 
 3. Integrate with Nostr, brc-soul build network, nostr deliver content
-4. Use Rollup Tech to reduce operation time to one-second
+4. Use Rollup to reduce time to one-second, and it can reduce gas too 
 5. Raise funds to give grants to the project who use BRC-Soul protocol
 
 
